@@ -1,2 +1,6 @@
 # Quantum-DSGE
-Creating Quantum DSGE method for MacroEconomics
+Creating Quantum Utility Maximization Problems using Quantum Reinforcement Learning
+
+
+
+
